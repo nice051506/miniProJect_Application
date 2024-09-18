@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728056372039",
+    "project_id": "appication-1ab6b",
+    "storage_bucket": "appication-1ab6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728056372039:android:64bbfec396d201b1910a62",
+        "android_client_info": {
+          "package_name": "com.example.appication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARjBHsC7-SaGqSzEdY_lHc04DxVPk0UwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
